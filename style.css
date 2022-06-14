@@ -1,0 +1,28 @@
+body {
+    font-size: 15pt;
+    user-select: none;
+}
+
+.about-2 {
+  margin-top: 72pt;
+}
+
+img {
+  width: 129px;
+  margin-top: 60px;
+  border-radius: 12px;
+}
+
+.display-4 {
+  font-size: 16pt;
+}
+
+.img-2 {
+  width: 24px;
+  margin-left: 12px;
+  margin-top: 22px;
+}
+
+p {
+  font-size: 15pt;
+}
